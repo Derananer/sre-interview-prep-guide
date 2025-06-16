@@ -21,7 +21,7 @@ Contributions are always welcome!
 
 ### Boot Process
 
-- [ ] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
+- [x] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
@@ -107,7 +107,7 @@ Contributions are always welcome!
 ## Databases
 
 - [ ] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
-- [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
+- [x] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
